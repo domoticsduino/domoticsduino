@@ -5,6 +5,10 @@ Computer engineer for passion; #crypto enthusiast; Home Automation and #OpenHAB 
 - 🌱 My luck was to be able to start working as far back as 1998, during my college time; this allowed me to gain the necessary experience to be able to face the job market with the right determination after graduation.
 - 📫 To go deeper in my job experience and technical skills, you can consult my LinkedIn profile https://www.linkedin.com/in/marco-lamanna
 
+My website: https://www.domoticsduino.cloud
+
+My Youtube Channel: https://www.youtube.com/channel/UCHv8Em1O2o5FgUmxRG618Og
+
 <!---
 domoticsduino/domoticsduino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
